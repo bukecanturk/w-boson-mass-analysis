@@ -12,7 +12,7 @@ While in processes such as Z → μ⁺ μ⁻, invariant mass can be calculated e
 Instead the transverse mass mT is calculated, avoiding the unknown $p_z$ .
 
 $$
-M_T^2 = 2|\boldsymbol{p}_T(μ)||\boldsymbol{p}_T(μ)|(1 - \cos\phi_{μν}) 
+M_T^2 = 2|\boldsymbol{p}_T(μ)||\boldsymbol{p}_T(ν)|(1 - \cos\phi_{μν}) 
 $$
 
 $\phi_{μν}$ is the angle between ${p}_T(μ)$ and ${p}_T(ν)$
