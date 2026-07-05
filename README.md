@@ -7,7 +7,7 @@ Generated 50.000 events of p p → μ⁺ $ν_μ$ using MadGraph5.
 
 (In the process, intermediate particle is the W boson.)
 ### Analysis
-While in processes such as Z → μ⁺ μ⁻, invariant mass can be calculated easily, (for further info, visit my other repo. 'muon-sm-llp-analysis') in current process, since the neutrino leaves no trace in the detector, pz of the neutrino is unknown. Therefore, the classical invariant mass formula cannot be used.
+While in processes such as Z → μ⁺ μ⁻, invariant mass can be calculated easily, (for further info, visit my other repo. 'muon-sm-llp-analysis') in current process, since the neutrino leaves no trace in the detector, $p_z$ of the neutrino is unknown. Therefore, the classical invariant mass formula cannot be used.
 
 Instead the transverse mass mT is calculated, avoiding the unknown $p_z$ .
 
