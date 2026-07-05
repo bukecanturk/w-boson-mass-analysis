@@ -22,7 +22,7 @@ Since the transverse mass must be less than or equal to the true mass, the maxim
 ### Histogram & Result
 ![Transverse Mass Histogram](mT.png)
 
-The Jacobian peak is at approximately 80 GeV, which indicates that W boson mass is around 80 Gev. (This aligns with the PDG value of W boson mass, 80.376 ± 0.033 GeV)
+The Jacobian peak is at approximately 80 GeV, which indicates that W boson mass is around 80 GeV. (This aligns with the PDG value of W boson mass, 80.376 ± 0.033 GeV)
 
 ### How to Reproduce
  1) Install MadGraph5_aMC@NLO and Python with pylhe and matplotlib.
