@@ -3,7 +3,7 @@ The study recreates the core analysis method of the UA1 experiment, which earned
 
 *Since this analysis is based on parton-level Monte Carlo simulations, detector effects are excluded. In a real detector, the transverse momentum of neutrino is not directly measurable and has to be calculated using missing transverse energy. However in this simulation, it is read directly from the LHE output.(Calculations with MET will be included in the further updates)*
 ### Simulation
-Generated 50.000 events of p p → μ⁺ νμ using MadGraph5.
+Generated 50.000 events of p p → μ⁺ $ν_μ$ using MadGraph5.
 
 (In the process, intermediate particle is the W boson.)
 ### Analysis
