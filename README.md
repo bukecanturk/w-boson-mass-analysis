@@ -40,5 +40,7 @@ The Jacobian peak is at approximately 80 GeV, which indicates that W boson mass 
 
 ### References
 [1] Arnison, G., et al. (UA1 Collaboration) "Experimental observation of isolated large transverse energy electrons with associated missing energy at √s= 540 GeV." Physics Letters B 122.1 (1983): 103-116.
+
 [2] Jackson, J. D. and D.R. Tovey, "38. Kinematics" Review of Particle Physics, Particle Data Group (2008), Section 38. (pdg.lbl.gov/2008/reviews/kinemarpp.pdf)
+
 [3] Zyla P.A. et al. (Particle Data Group), Prog. Theor. Exp. Phys. 2020, 083C01 (2020), W Boson Mass. (pdg.web.cern.ch/pdg/2020/listings/rpp2020-list-w-boson.pdf)
